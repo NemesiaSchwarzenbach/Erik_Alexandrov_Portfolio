@@ -1,0 +1,247 @@
+.purple-color {
+
+  color: #8845f4;
+
+}
+
+body {
+
+  font-family: sans-serif;
+
+  color: #777777;
+
+  line-height: 26px;} 
+
+.half-width2 {
+
+  width: 35%;
+
+  float: left;
+
+  transform: rotate(-10deg);
+
+}
+
+.b {
+
+  text-align: vertical-align;
+
+margin-top: 80px;
+
+margin-left: 2px;
+
+}
+
+.less {
+
+margin-top: 0px;
+
+}
+
+.side-img {
+
+   float: top;
+
+    width: 100%;
+
+    height:25%;
+
+   
+
+  }
+
+.side-img2 {
+
+    width: 200px;
+
+    height: 200px;
+
+    float: left;
+
+    margin-right: 2px;
+
+}
+
+.primary-btn {
+
+  margin-top: 70px;
+
+  margin-bottom: 40px;
+
+  color: white;
+
+  background-color: #8845f4;
+
+  padding: 13px 42px 13px 42px;
+
+  border-radius: 20px;
+
+  text-decoration: none
+
+}
+
+.imgtr{
+
+  width: 40px;
+
+  height: 40px;
+
+  float: right;
+
+}
+
+h1{
+
+  font-size:  2em;
+
+}
+
+.container {
+
+  padding-left: 0%;
+
+  display: inline-block;
+
+}
+
+.experiences {
+
+  padding: 30px;
+
+  margin: 30px;
+
+  background-color: rgb(238, 251, 255, );
+
+  border-radius: 20px;
+
+  }
+
+.experience-item {
+
+  padding: 10px;
+
+  border-left: 1px solid rgba(137, 130, 247, .2);
+
+}
+
+.nav 
+
+{
+
+  overflow: hidden;
+
+  background-color:#D3D3D3;
+
+  width: 50px;
+
+  height: 50px;
+
+  font-family: Arial;
+
+  float: left;
+
+} 
+
+/* Navbar container */
+
+.navbar {
+
+  overflow: hidden;
+
+  background-color: #333;
+
+  font-family: Arial;
+
+}
+
+.dropdown .dropbtn {
+
+  font-size: 16px;
+
+  border: none;
+
+  outline: none;
+
+  color: white;
+
+ 
+
+  background-color: inherit;
+
+  font-family: inherit; /* Important for vertical align on mobile phones */
+
+  margin: 0; /* Important for vertical align on mobile phones */
+
+} 
+
+/* Dropdown content (hidden by default) */
+
+.dropdown-content {
+
+  display: none;
+
+  position: absolute;
+
+  background-color: #8845f4;
+
+  border: solid;
+
+  min-width: 160px;
+
+  box-shadow: 0px 8px 10px 0px rgba(0,0,0,0.2);
+
+  z-index: 1;
+
+  margin-top: 0;
+
+} 
+
+/* Links inside the dropdown */
+
+.dropdown-content a {
+
+  float: none;
+
+  color: whitesmoke;
+
+  padding: 12px 16px;
+
+  text-decoration: none;
+
+  display: block;
+
+  text-align: left;
+
+  border-bottom: solid grey;
+
+}
+
+/* The dropdown container */
+
+.dropdown {
+
+  float: left;
+
+  overflow: hidden;
+
+  margin:0px;
+
+}
+
+/* barra de menu */
+
+.dropdown:hover .dropdown-content {
+
+  display: block;
+
+ 
+
+} 
+
+.flagicon {
+
+  width: 20px;
+
+  height:20px;
+
+}
